@@ -1,5 +1,5 @@
 # ʚ 🍓ɞ Oi, bem vindo(a) ao meu perfil no Github!!
-## 🌷‎♡₊˚ Meu nome é Raissa  tenho 16 anos. Sou iniciante em programação.
+## 🌷‎♡₊˚ Meu nome é Raissa, tenho 16 anos. Sou iniciante em programação.
 ###⠀˗ˏˋ ♡ ˎˊ˗ Estou aprendendo: ⠀⠀⠀⠀⠀⠀⠀⠀
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40" />
